@@ -1,0 +1,8 @@
+{
+  "laz_file": "test_point_clouds/20260722-1703-46.PIVOX.SOOICEISLANDS_aftersurvey_test2.laz",
+  "ref_csv": "range_experiment.csv",
+  "num_targets": 6,
+  "match_mode": "hybrid",
+  "verbose": false,
+  "print_candidate_diagnostics": false
+}
